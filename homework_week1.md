@@ -3,23 +3,23 @@
 
 ## Overview and Origin
 
-- Name of company
+- **Name of company**
 
 Binance
 
-- When was the company incorporated?
+- **When was the company incorporated?**
 
 Binance was incorporated in 2017.
 
-- Who are the founders of the company?
+- **Who are the founders of the company?**
 
 Binance was founded by Changpeng Zhao (CZ) and Yi He.
 
-- How did the idea for the company (or project) come about?
+- **How did the idea for the company (or project) come about?**
 
 Changpeng Zhao and Yi He recognized the growing demand for a fast, reliable, and user-friendly cryptocurrency exchange. They launched Binance with the aim of providing a secure platform for trading various cryptocurrencies, while also offering advanced tools and features for seasoned traders.
 
-- How is the company funded? How much funding have they received?
+- **How is the company funded? How much funding have they received?**
 
 Binance was initially funded through an Initial Coin Offering (ICO) in July 2017, raising approximately $15 million by issuing its own token, Binance Coin (BNB).
 
