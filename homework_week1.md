@@ -5,7 +5,7 @@
 
 - **Name of company**
 
-Binance
+Binance ![Binance icon](https://img.icons8.com/external-black-fill-lafs/256/external-Binance-cryptocurrency-black-fill-lafs.png "Biance icon")
 
 - **When was the company incorporated?**
 
