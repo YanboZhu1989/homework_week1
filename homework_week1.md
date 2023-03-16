@@ -1,4 +1,6 @@
 # Binance: A Case Study of a Leading Cryptocurrency Exchange
+![Binance logo](https://logos-world.net/wp-content/uploads/2023/02/Binance-Logo.png "Binance logo")
+
 ---
 
 ## Overview and Origin
