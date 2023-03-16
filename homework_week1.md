@@ -87,3 +87,7 @@ To implement these investment products, Binance would need to develop or integra
 - Why are these technologies appropriate for your solution?
 
 The use of advanced technologies like machine learning can help optimize portfolio performance while minimizing risk, providing a better experience for investors. Smart contracts and blockchain technology can enable transparency, immutability, and automation in the management of investment products, aligning with the company's commitment to leveraging cutting-edge technologies in the digital asset space.
+
+---
+
+Yanbo Zhu 16/03/2023
