@@ -1,11 +1,12 @@
 # homework_week1_demo
 
-# TITLE
+# Binance: A Case Study of a Leading Cryptocurrency Exchange
 
 ## Overview and Origin
 
 - Name of company
-  Binance
+
+Binance
 
 - When was the company incorporated?
 
