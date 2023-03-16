@@ -1,5 +1,3 @@
-# homework_week1_demo
-
 # Binance: A Case Study of a Leading Cryptocurrency Exchange
 
 ## Overview and Origin
@@ -90,4 +88,4 @@ The use of advanced technologies like machine learning can help optimize portfol
 
 ---
 
-Yanbo Zhu 16/03/2023
+_Yanbo Zhu_ 16/03/2023
