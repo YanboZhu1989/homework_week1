@@ -1,11 +1,20 @@
 # Binance: A Case Study of a Leading Cryptocurrency Exchange
+
 ![Binance logo](https://fxnewsgroup.com/wp-content/uploads/2022/04/Binance-logo-large-1024x576-978x400.jpg "Binance logo")
+
+## Table of Contents
+
+1. [Overview and Origin](#Overview and Origin)
+2. [Business Activities](#Business Activities)
+3. [Landscape](#Landscape)
+4. [Results](#Results)
+5. [Recommendations](#Recommendations)
 
 ## Overview and Origin
 
 - **Name of company**
 
- ![Binance icon](./image/2785522_binance_binancecoin_blockchain_coin_icon.png "Biance icon") Binance
+![Binance icon](./image/2785522_binance_binancecoin_blockchain_coin_icon.png "Biance icon") Binance
 
 - **When was the company incorporated?**
 
