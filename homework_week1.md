@@ -25,6 +25,8 @@ Changpeng Zhao and Yi He recognized the growing demand for a fast, reliable, and
 
 Binance was initially funded through an Initial Coin Offering (ICO) in July 2017, raising approximately $15 million by issuing its own token, Binance Coin (BNB).
 
+_[Find out more](https://www.binance.com/en/about)_
+
 ## Business Activities:
 
 - What specific financial problem is the company or project trying to solve?
