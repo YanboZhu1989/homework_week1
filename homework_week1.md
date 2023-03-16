@@ -5,7 +5,7 @@
 
 - **Name of company**
 
-Binance ![Binance icon](./image/2785522_binance_binancecoin_blockchain_coin_icon.png "Biance icon")
+ ![Binance icon](./image/2785522_binance_binancecoin_blockchain_coin_icon.png "Biance icon") Binance
 
 - **When was the company incorporated?**
 
