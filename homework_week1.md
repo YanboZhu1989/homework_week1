@@ -1,5 +1,5 @@
 # Binance: A Case Study of a Leading Cryptocurrency Exchange
-![Binance logo](https://logos-world.net/wp-content/uploads/2023/02/Binance-Logo.png "Binance logo")
+![Binance logo](https://fxnewsgroup.com/wp-content/uploads/2022/04/Binance-logo-large-1024x576-978x400.jpg "Binance logo")
 
 ---
 
