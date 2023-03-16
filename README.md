@@ -3,11 +3,11 @@
 
 ## Table of Contents
 
-1. [Overview and Origin](#Overview and Origin)
-2. [Business Activities](#Business Activities)
-3. [Landscape](#Landscape)
-4. [Results](#Results)
-5. [Recommendations](#Recommendations)
+1. [**Overview and Origin**](#OverviewandOrigin)
+2. [**Business Activities**](#BusinessActivities)
+3. [**Landscape**](#Landscape)
+4. [**Results**](#Results)
+5. [**Recommendations**](#Recommendations)
 
 ## Overview and Origin
 
