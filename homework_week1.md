@@ -1,4 +1,5 @@
 # Binance: A Case Study of a Leading Cryptocurrency Exchange
+---
 
 ## Overview and Origin
 
