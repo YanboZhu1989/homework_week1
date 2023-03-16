@@ -3,8 +3,8 @@
 
 ## Table of Contents
 
-1. [**Overview and Origin**](#OverviewandOrigin)
-2. [**Business Activities**](#BusinessActivities)
+1. [**Overview and Origin**](#overview-and-origin)
+2. [**Business Activities**](#business-activities)
 3. [**Landscape**](#Landscape)
 4. [**Results**](#Results)
 5. [**Recommendations**](#Recommendations)
