@@ -1,4 +1,5 @@
 # Binance: A Case Study of a Leading Cryptocurrency Exchange
+
 ![Binance logo](https://fxnewsgroup.com/wp-content/uploads/2022/04/Binance-logo-large-1024x576-978x400.jpg "Binance logo")
 
 ## Table of Contents
@@ -13,7 +14,7 @@
 
 - **Name of company**
 
- ![Binance icon](./image/2785522_binance_binancecoin_blockchain_coin_icon.png "Biance icon") Binance
+![Binance icon](./image/2785522_binance_binancecoin_blockchain_coin_icon.png "Biance icon") Binance
 
 - **When was the company incorporated?**
 
@@ -96,6 +97,20 @@ To implement these investment products, Binance would need to develop or integra
 - **Why are these technologies appropriate for your solution?**
 
 The use of advanced technologies like machine learning can help optimize portfolio performance while minimizing risk, providing a better experience for investors. Smart contracts and blockchain technology can enable transparency, immutability, and automation in the management of investment products, aligning with the company's commitment to leveraging cutting-edge technologies in the digital asset space.
+
+---
+
+## Bibliography
+
+1. [Binance official website][1]
+2. [Binance Academy][3]
+3. [Binance Research][4]
+4. [Binance Blog][5]
+
+[1]: https://www.binance.com/
+[2]: https://academy.binance.com/
+[3]: https://research.binance.com/
+[4]: https://www.binance.com/en/blog
 
 ---
 
