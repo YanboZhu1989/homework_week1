@@ -103,9 +103,9 @@ The use of advanced technologies like machine learning can help optimize portfol
 ## Bibliography
 
 1. [Binance official website][1]
-2. [Binance Academy][3]
-3. [Binance Research][4]
-4. [Binance Blog][5]
+2. [Binance Academy][2]
+3. [Binance Research][3]
+4. [Binance Blog][4]
 
 [1]: https://www.binance.com/
 [2]: https://academy.binance.com/
