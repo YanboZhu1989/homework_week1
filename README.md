@@ -36,6 +36,8 @@ More information [_**here**_](https://www.binance.com/en/about)
 
 ## Business Activities:
 
+![Binance business activities](./image/Binance-Business-Model-StartupTalky.jpg "Binance business model")
+
 - **What specific financial problem is the company or project trying to solve?**
 
 Binance aims to address the need for a robust, secure, and efficient platform for trading cryptocurrencies, as well as offering various financial services related to blockchain and digital assets.
@@ -53,6 +55,8 @@ Binance's advantage lies in its wide range of cryptocurrencies available for tra
 Binance utilizes a multi-tier and multi-cluster system architecture to ensure high performance and security. The platform employs advanced technologies like artificial intelligence and machine learning for fraud detection and risk management. Binance Chain, a blockchain software system, powers the Binance decentralized exchange (DEX) and other ecosystem components.
 
 ## Landscape:
+
+![Binance Crypto](./image/binance_crypto.jpeg "Binance dominates crypto trading")
 
 - **What domain of the financial industry is the company in?**
 
@@ -80,7 +84,7 @@ Key metrics in this domain include trading volume, user base, market share, and 
 
 Binance is performing exceptionally well compared to competitors in terms of trading volume, user base, and available trading pairs.
 
-## Recommendations
+## Recommendations ![recommendation](./image/Screenshot_icon.jpg "recon icon")
 
 - **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
 
